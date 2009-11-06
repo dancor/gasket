@@ -1,0 +1,12 @@
+name:           gasket
+version:        0.1
+license:        GPL
+license-file:   LICENSE
+author:         dan corson <danl@alum.mit.edu>
+synopsis:       <syn>
+build-type:     Simple
+build-depends:  base, haskell98
+
+executable:     gasket
+main-is:        Main.hs
+hs-source-dirs: src
